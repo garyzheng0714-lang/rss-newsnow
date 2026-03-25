@@ -70,6 +70,8 @@ JWT_SECRET=
 INIT_TABLE=true
 # Whether to enable cache
 ENABLE_CACHE=true
+# Product Hunt API Token (optional, required for Product Hunt source)
+PRODUCTHUNT_API_TOKEN=
 ```
 
 ### Database Support
